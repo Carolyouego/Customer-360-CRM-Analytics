@@ -209,7 +209,38 @@ Cette page permet d'évaluer la fiabilité des informations clients.
 ### Dashboard 3 — Analyse géographique et répartition des clients
 
 Cette page présente la distribution géographique de la clientèle.
+---
+## 📊 Tableaux de bord Power BI
 
+Le projet Customer 360 comprend trois tableaux de bord
+permettant d'analyser la consolidation des données clients,
+leur qualité et leur répartition géographique.
+
+### 1. Vue d'ensemble et performance du dédoublonnage
+
+Ce tableau de bord présente les principaux indicateurs
+de consolidation des données CRM et les résultats du dédoublonnage.
+
+![Vue d'ensemble Customer 360](images/dashboard_01_vue_ensemble.png.png)
+
+### 2. Qualité et fiabilité des données CRM
+
+Ce tableau de bord permet d'évaluer la fiabilité des données
+clients et d'identifier les anomalies nécessitant une vérification.
+
+![Qualité des données CRM](images/dashboard_02_qualite_crm.png.png)
+
+### 3. Analyse géographique et répartition des clients
+
+Ce tableau de bord présente la répartition des 1 693 clients
+consolidés dans 10 villes.
+
+Il permet d'analyser le nombre de clients par ville,
+leur répartition en pourcentage et le score moyen
+de qualité des données.
+
+![Analyse géographique des clients](images/dashboard_03_analyse_geographique.png.png)
+---
 **Principaux indicateurs :**
 
 - 1 693 clients consolidés.
