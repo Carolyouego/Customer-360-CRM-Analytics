@@ -327,6 +327,36 @@ Customer 360 illustre comment une démarche de qualité des données peut contri
 
 ---
 
+## Accès aux fichiers du projet
+
+Les fichiers techniques du projet Customer 360 sont organisés
+par technologie afin de faciliter leur consultation.
+
+### Python — Audit et validation des données
+
+Le notebook Jupyter permet de vérifier l'intégrité des données
+clients et de contrôler les résultats du processus de consolidation.
+
+ [Consulter le notebook Python](python/01_Audit_Qualite_Donnees_clients.ipynb)
+
+### SQL Server — Traitement et consolidation CRM
+
+Le script SQL Server présente les traitements SQL utilisés
+dans le cadre de la consolidation et de l'analyse des données CRM.
+
+ [Consulter le script SQL Server](sql/Customer_360_SQL_Server.sql)
+
+### Power BI — Tableaux de bord interactifs
+
+Le rapport Power BI comprend trois pages :
+
+1. Vue d'ensemble et performance du dédoublonnage.
+2. Qualité et fiabilité des données CRM.
+3. Analyse géographique et répartition des clients.
+
+ [Accéder au rapport Power BI](powerbi/Customer_360_Visualisation_final.pbix)
+
+--
 ## À propos
 
 **Caroline Youego**
